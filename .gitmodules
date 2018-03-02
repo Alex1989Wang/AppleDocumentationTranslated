@@ -1,0 +1,3 @@
+[submodule "core-animation"]
+	path = core-animation
+	url = https://git.gitbook.com/alex1989wang/core-animation.git
